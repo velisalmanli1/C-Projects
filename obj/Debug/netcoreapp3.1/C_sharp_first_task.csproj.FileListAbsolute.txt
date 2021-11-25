@@ -1,0 +1,14 @@
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\bin\Debug\netcoreapp3.1\C_sharp_first_task.exe
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\bin\Debug\netcoreapp3.1\C_sharp_first_task.deps.json
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\bin\Debug\netcoreapp3.1\C_sharp_first_task.runtimeconfig.json
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\bin\Debug\netcoreapp3.1\C_sharp_first_task.runtimeconfig.dev.json
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\bin\Debug\netcoreapp3.1\C_sharp_first_task.dll
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\bin\Debug\netcoreapp3.1\C_sharp_first_task.pdb
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.csproj.AssemblyReference.cache
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.AssemblyInfoInputs.cache
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.AssemblyInfo.cs
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.csproj.CoreCompileInputs.cache
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.dll
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.pdb
+C:\Users\VAFA\Desktop\New folder\C_sharp_first_task\obj\Debug\netcoreapp3.1\C_sharp_first_task.genruntimeconfig.cache
